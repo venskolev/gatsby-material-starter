@@ -41,7 +41,7 @@
       "dateModified": "2021-08-01T00:00:00.000Z",
       "category": "tech",
       "tags": ["programming", "test", "markdown", "big"],
-      "excerpt": "NOTE: This \"post\" is based on  Markdown Cheatsheet  and is meant to test styling of Markdown generated documents. This is intended as a…",
+      "excerpt": "TODO: This \"post\" is based on  Markdown Cheatsheet  and is meant to test styling of Markdown generated documents. This is intended as a…",
       "timeToRead": 3,
       "slug": "/big-sample-test",
       "route": "/big-sample-test",
@@ -49,7 +49,7 @@
       "url": "https://material-demo.netlify.com/big-sample-test"
     },
     {
-      "title": "Storms of Doors",
+      "title": "Doorses",
       "description": "Description",
       "coverImg": {
         "gatsbyImageData": {
