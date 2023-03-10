@@ -4,7 +4,7 @@
   "nextCount": 5,
   "posts": [
     {
-      "title": "Big Test",
+      "title": "Test Gatsby",
       "description": "A big test intended for checking the MDX rendering.",
       "coverImg": {
         "gatsbyImageData": {
